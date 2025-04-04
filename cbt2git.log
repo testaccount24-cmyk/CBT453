@@ -1,0 +1,11 @@
+2025-04-04 10:00:12.106401 - Received CBT.V508.FILE453.PDS from FILE453.XMI 
+2025-04-04 10:00:12.107241 - Found $$$$DELE.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/$$$$DELE
+2025-04-04 10:00:12.107415 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/$$$#DATE
+2025-04-04 10:00:12.107568 - Found $$$DOC.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/$$$DOC
+2025-04-04 10:00:12.107700 - Found @FILE453.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/@FILE453
+2025-04-04 10:00:12.107854 - Found CBTF0.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF0
+2025-04-04 10:00:12.107979 - Found CBTF1.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF1
+2025-04-04 10:00:12.108105 - Found CBTF2.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF2
+2025-04-04 10:00:12.108223 - Found CBTF3.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF3
+2025-04-04 10:00:12.108352 - Found CBTF4.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF4
+2025-04-04 10:00:12.108468 - Found CBTF5.txt (text/plain) in CBT.V508.FILE453.PDS, moved to PDS/CBTF5
